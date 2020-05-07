@@ -1,0 +1,53 @@
+pyftsubset\
+  WorkSans-Bold.ttf \
+  --output-file="WorkSans-Bold-latin.woff2" \
+  --flavor=woff2 \
+  --layout-features="kern,liga,clig,calt,ccmp,locl,mark,mkmk,\
+  onum,pnum,smcp,c2sc,frac,lnum,tnum,subs,sups,\
+  cswh,dlig,ss01,ss03,zero"\
+  --unicodes="U+0000-00FF" &&
+
+pyftsubset\
+  WorkSans-Bold.ttf \
+  --output-file="WorkSans-Bold-latin-extended-a.woff2" \
+  --flavor=woff2 \
+  --layout-features="kern,liga,clig,calt,ccmp,locl,mark,mkmk,\
+  onum,pnum,smcp,c2sc,frac,lnum,tnum,subs,sups,\
+  cswh,dlig,ss01,ss03,zero"\
+  --unicodes="U+0100-017F" &&
+
+pyftsubset\
+  WorkSans-Bold.ttf \
+  --output-file="WorkSans-Bold-latin-extended-b.woff2" \
+  --flavor=woff2 \
+  --layout-features="kern,liga,clig,calt,ccmp,locl,mark,mkmk,\
+  onum,pnum,smcp,c2sc,frac,lnum,tnum,subs,sups,\
+  cswh,dlig,ss01,ss03,zero"\
+  --unicodes="U+0180-024F" &&
+
+pyftsubset\
+  WorkSans-Bold.ttf \
+  --output-file="WorkSans-Bold-rest-middle.woff2" \
+  --flavor=woff2 \
+  --layout-features="kern,liga,clig,calt,ccmp,locl,mark,mkmk,\
+  onum,pnum,smcp,c2sc,frac,lnum,tnum,subs,sups,\
+  cswh,dlig,ss01,ss03,zero"\
+  --unicodes="U+0259-03C0" &&
+
+pyftsubset\
+  WorkSans-Bold.ttf \
+  --output-file="WorkSans-Bold-latin-extended-additional.woff2" \
+  --flavor=woff2 \
+  --layout-features="kern,liga,clig,calt,ccmp,locl,mark,mkmk,\
+  onum,pnum,smcp,c2sc,frac,lnum,tnum,subs,sups,\
+  cswh,dlig,ss01,ss03,zero"\
+  --unicodes="U+1E00-1EFF" &&
+
+pyftsubset\
+  WorkSans-Bold.ttf \
+  --output-file="WorkSans-Bold-rest.woff2" \
+  --flavor=woff2 \
+  --layout-features="kern,liga,clig,calt,ccmp,locl,mark,mkmk,\
+  onum,pnum,smcp,c2sc,frac,lnum,tnum,subs,sups,\
+  cswh,dlig,ss01,ss03,zero"\
+  --unicodes="U+2000-FB02"
