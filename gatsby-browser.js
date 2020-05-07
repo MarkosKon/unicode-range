@@ -1,3 +1,5 @@
 import "@affectionatedoor/opentype"
-import "./src/styles/work-sans-1.css"
+// import "./src/styles/work-sans-1.css"
+// import "./src/styles/work-sans-2.css"
+import "./src/styles/work-sans-3.css"
 import "./src/styles/main.css"

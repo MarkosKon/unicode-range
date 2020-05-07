@@ -3,7 +3,9 @@
   font-synthesis: none;
 }
 :root {
-  font-family: "Work Sans 1", sans-serif;
+  /* font-family: "Work Sans 1", sans-serif; */
+  /* font-family: "Work Sans 2", sans-serif; */
+  font-family: "Work Sans 3", sans-serif;
   font-size: 20px;
   line-height: 1.5;
   --rhythm: calc(20px * 1.5);

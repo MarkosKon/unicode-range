@@ -1,0 +1,222 @@
+/* Regular */
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../work-sans-3/Regular/WorkSans-Regular-latin.woff2")
+    format("woff2");
+  unicode-range: U+0000-00FF;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../work-sans-3/Regular/WorkSans-Regular-latin-extended-a.woff2")
+    format("woff2");
+  unicode-range: U+0100-017F;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../work-sans-3/Regular/WorkSans-Regular-latin-extended-b.woff2")
+    format("woff2");
+  unicode-range: U+0180-024F;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../work-sans-3/Regular/WorkSans-Regular-latin-extended-additional.woff2")
+    format("woff2");
+  unicode-range: U+1E00-1EFF;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../work-sans-3/Regular/WorkSans-Regular-rest.woff2") format("woff2");
+  unicode-range: U+0259-03C0, U+2000-FB02;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../work-sans-3/Regular/WorkSans-Regular-english.woff2")
+    format("woff2");
+  unicode-range: U+0000-00A0, U+00A2-00A9, U+00AC-00AE, U+00B0-00B7, U+00B9-00BA,
+    U+00BC-00BE, U+00D7, U+00F7, U+2000-206F, U+2074, U+20AC, U+2122,
+    U+2190-21BB, U+2212, U+2215, U+F8FF, U+FEFF, U+FFFD;
+}
+/* Italic */
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: url("../work-sans-3/Italic/WorkSans-Italic-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: url("../work-sans-3/Italic/WorkSans-Italic-latin-extended-a.woff2")
+    format("woff2");
+  unicode-range: U+0100-017F;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: url("../work-sans-3/Italic/WorkSans-Italic-latin-extended-b.woff2")
+    format("woff2");
+  unicode-range: U+0180-024F;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: url("../work-sans-3/Italic/WorkSans-Italic-latin-extended-additional.woff2")
+    format("woff2");
+  unicode-range: U+1E00-1EFF;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: url("../work-sans-3/Italic/WorkSans-Italic-rest.woff2") format("woff2");
+  unicode-range: U+0259-03C0, U+2000-FB02;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+  src: url("../work-sans-3/Italic/WorkSans-Italic-english.woff2")
+    format("woff2");
+  unicode-range: U+0000-00A0, U+00A2-00A9, U+00AC-00AE, U+00B0-00B7, U+00B9-00BA,
+    U+00BC-00BE, U+00D7, U+00F7, U+2000-206F, U+2074, U+20AC, U+2122,
+    U+2190-21BB, U+2212, U+2215, U+F8FF, U+FEFF, U+FFFD;
+}
+/* Bold */
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../work-sans-3/Bold/WorkSans-Bold-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../work-sans-3/Bold/WorkSans-Bold-latin-extended-a.woff2")
+    format("woff2");
+  unicode-range: U+0100-017F;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../work-sans-3/Bold/WorkSans-Bold-latin-extended-b.woff2")
+    format("woff2");
+  unicode-range: U+0180-024F;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../work-sans-3/Bold/WorkSans-Bold-latin-extended-additional.woff2")
+    format("woff2");
+  unicode-range: U+1E00-1EFF;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../work-sans-3/Bold/WorkSans-Bold-rest.woff2") format("woff2");
+  unicode-range: U+0259-03C0, U+2000-FB02;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../work-sans-3/Bold/WorkSans-Bold-english.woff2") format("woff2");
+  unicode-range: U+0000-00A0, U+00A2-00A9, U+00AC-00AE, U+00B0-00B7, U+00B9-00BA,
+    U+00BC-00BE, U+00D7, U+00F7, U+2000-206F, U+2074, U+20AC, U+2122,
+    U+2190-21BB, U+2212, U+2215, U+F8FF, U+FEFF, U+FFFD;
+}
+/* BoldItalic */
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+  src: url("../work-sans-3/BoldItalic/WorkSans-BoldItalic-latin.woff2")
+    format("woff2");
+  unicode-range: U+0000-00FF;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+  src: url("../work-sans-3/BoldItalic/WorkSans-BoldItalic-latin-extended-a.woff2")
+    format("woff2");
+  unicode-range: U+0100-017F;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+  src: url("../work-sans-3/BoldItalic/WorkSans-BoldItalic-latin-extended-b.woff2")
+    format("woff2");
+  unicode-range: U+0180-024F;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+  src: url("../work-sans-3/BoldItalic/WorkSans-BoldItalic-latin-extended-additional.woff2")
+    format("woff2");
+  unicode-range: U+1E00-1EFF;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+  src: url("../work-sans-3/BoldItalic/WorkSans-BoldItalic-rest.woff2")
+    format("woff2");
+  unicode-range: U+0259-03C0, U+2000-FB02;
+}
+@font-face {
+  font-family: "Work Sans 3";
+  font-display: swap;
+  font-weight: 700;
+  font-style: italic;
+  src: url("../work-sans-3/BoldItalic/WorkSans-BoldItalic-english.woff2")
+    format("woff2");
+  unicode-range: U+0000-00A0, U+00A2-00A9, U+00AC-00AE, U+00B0-00B7, U+00B9-00BA,
+    U+00BC-00BE, U+00D7, U+00F7, U+2000-206F, U+2074, U+20AC, U+2122,
+    U+2190-21BB, U+2212, U+2215, U+F8FF, U+FEFF, U+FFFD;
+}
